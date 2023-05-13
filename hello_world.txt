@@ -1,1 +1,2 @@
 This is a message to be committed to my test repo.
+I am typing a new message to test commit messages
